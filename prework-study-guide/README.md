@@ -15,7 +15,7 @@ This project is ultimately a learning experience and useful for deconstructing s
 ![alt text](assets/images/Coding-Menu Screenshot.png)
 
 ## Credits
-I used GitHuc Docs, the helps pages for GitHub, specifically the one listed below:
+I used GitHub Docs, the helps pages for GitHub, specifically the one listed below:
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
 I followed no other tutorials other than the modules predetermined for the class which can be found here:
